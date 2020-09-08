@@ -21,7 +21,7 @@ HTTP使用的是可靠的数据传输协议,因此即使数据来自地球的另
 ### web客户端和服务器
 Web内容都是存储在Web服务器上的。Web服务器所使用的是HTTP协议，因此经常会被称为HTTP服务器。这些HTTP 服务器存储了因特网中的数据，如果HTTP 客户端发出请求的话，它们会提供数据。客户端向服务器发送HTTP 请求，服务器会在HTTP 响应中回送所请求的数据.HTTP 客户端和HTTP服务器共同构成了万维网的基本组件。
 
-![clientAndServer](https://raw.githubusercontent.com/angelpray/MyHttp/master/images/clientAndServer.PNG)
+![clientAndServer](https://user-gold-cdn.xitu.io/2020/6/18/172c5007cd1553b1?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
 
 
 
